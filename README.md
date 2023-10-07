@@ -1,4 +1,4 @@
-# Attacments Redirect plugin
+# Attachments Redirect plugin
 Get images from live website into localhost
 
 if you working with dev why export entire website when you can export only database. 
